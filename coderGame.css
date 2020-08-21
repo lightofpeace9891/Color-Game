@@ -1,0 +1,36 @@
+body {
+	background-color:#232323;
+}
+
+.square{
+	width :20%;
+	background : purple;
+	padding-bottom :20%;
+	float: right;
+	margin: 1.66%;
+}
+
+
+#container {
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+h1 {
+	color : white;
+}
+
+
+
+#stripe {
+	background: white;
+	height: 30px;
+	text-alighn: center;
+	color: black;
+
+}
+
+
+.selected{
+	background: blue;
+}
